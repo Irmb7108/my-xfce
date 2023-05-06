@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Exec=/opt/windscribe/Windscribe %F
+Name=Windscribe
+Icon=windscribe
+Categories=Utility;Security
+X-XFCE-Source=file:///usr/share/applications/windscribe.desktop

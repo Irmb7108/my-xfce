@@ -1,0 +1,14 @@
+[user]
+indicatorColorFromTheme=false
+forceIconSize=true
+iconSize=16
+noWindowsListIfSingle=false
+onlyDisplayVisible=false
+onlyDisplayScreen=false
+showPreviews=false
+keyComboActive=false
+keyAloneActive=false
+indicatorStyle=5
+inactiveIndicatorStyle=5
+showWindowCount=false
+indicatorOrientation=0
