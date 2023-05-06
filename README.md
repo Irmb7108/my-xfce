@@ -1,2 +1,2 @@
 # my-xfce
-![توضیح عکس](https://ibb.co/QJKMLwg)
+![توضیح عکس](setup.png)
