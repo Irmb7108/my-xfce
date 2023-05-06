@@ -33,4 +33,4 @@ If you're interested, you're welcome to contribute to the improvement and develo
 License
 
 This project is licensed under the MIT License.
-![توضیح عکس](setup.png)
+![img](setup.png)
