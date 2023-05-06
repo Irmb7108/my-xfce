@@ -6,13 +6,14 @@ Installation and Setup
 
 To utilize these dotfiles and configure the Xfce desktop environment, follow the steps below:
 
-    **Clone the repository:**
+**Clone the repository:**
 ```
 git clone https://github.com/Irmb7108/my-xfce.git
 ```
 **Transfer the dotfiles:**
 ```
     cd my-xfce
+    cp -r .assets ~/.
     cp -r .config/xfce4/ ~/.config/
 ```
  Restart the Xfce desktop environment.
