@@ -9,16 +9,16 @@ To utilize these dotfiles and configure the Xfce desktop environment, follow the
     Clone the repository:
 
     bash
-
+```
 git clone https://github.com/Irmb7108/my-xfce.git
-
+```
 Transfer the dotfiles:
 
 bash
-
+```
     cd my-xfce
     cp -r .config/xfce4/ ~/.config/
-
+```
     Restart the Xfce desktop environment.
 
 Customization
