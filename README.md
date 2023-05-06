@@ -16,6 +16,8 @@ git clone https://github.com/Irmb7108/my-xfce.git
     cp -r .assets ~/.
     cp -r .config/xfce4/ ~/.config/
 ```
+icons:
+```yay -S nordzy-icon-theme-git``` 
  Restart the Xfce desktop environment.
 
 Customization
