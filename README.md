@@ -24,7 +24,8 @@ yay -S nordzy-icon-theme-git
 
  Restart the Xfce desktop environment.
 TELEGRAM DESKTOP THEMES 
-```  https://t.me/addtheme/uEoDB43jJHAxgqND ```
+ https://t.me/addtheme/uEoDB43jJHAxgqND  
+ 
 Customization
 
 You have the freedom to customize the dotfiles according to your preferences. By editing these files, you can tailor the appearance and functionality of the Xfce desktop environment to suit your needs.
